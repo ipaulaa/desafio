@@ -16,6 +16,10 @@ information about my contact methods and curiosities.
 
 - HTML
 
+### 🚀Features
+
+- Semantic HTML
+
 ## 👩🏻‍💻 Author
 
 [![](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://wwww.github.com/ipaulaa)
