@@ -6,7 +6,7 @@ information about my contact methods and curiosities.
 
 ## 📸 Screenshots
 
-![desafio](readme/desafio.png)
+![desafio](assets/readme/desafio.png)
 
 ## 🔗 Link
 
