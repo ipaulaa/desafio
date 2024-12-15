@@ -1,7 +1,7 @@
 # Challenge 01: Desafio
 
 This project is an **About Me** page created as part of my HTML learning journey. It's designed to practice essential
-HTML elements like: *headings*, *paragraphs*, *lists*, *links*, and *images* to build a structured and informative webpage.
+HTML elements like: _headings_, _paragraphs_, _lists_, _links_, and _images_ to build a structured and informative webpage.
 
 ## 📸 Screenshots
 
